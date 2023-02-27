@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\bin\Debug\CondicionalDiferençaMaiorMenor.exe.config
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\bin\Debug\CondicionalDiferençaMaiorMenor.exe
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\bin\Debug\CondicionalDiferençaMaiorMenor.pdb
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.Form1.resources
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.exe
+C:\VISUAL STUDIO\CondicionalDiferençaMaiorMenor\obj\Debug\CondicionalDiferençaMaiorMenor.pdb

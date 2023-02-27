@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\bin\Debug\CondicionalPositivoNegativo.exe.config
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\bin\Debug\CondicionalPositivoNegativo.exe
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\bin\Debug\CondicionalPositivoNegativo.pdb
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.Form1.resources
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.exe
+C:\VISUAL STUDIO\CondicionalPositivoNegativo\obj\Debug\CondicionalPositivoNegativo.pdb

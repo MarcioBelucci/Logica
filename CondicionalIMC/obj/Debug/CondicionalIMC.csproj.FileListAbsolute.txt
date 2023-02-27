@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalIMC\bin\Debug\CondicionalIMC.exe.config
+C:\VISUAL STUDIO\CondicionalIMC\bin\Debug\CondicionalIMC.exe
+C:\VISUAL STUDIO\CondicionalIMC\bin\Debug\CondicionalIMC.pdb
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.Form1.resources
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.exe
+C:\VISUAL STUDIO\CondicionalIMC\obj\Debug\CondicionalIMC.pdb

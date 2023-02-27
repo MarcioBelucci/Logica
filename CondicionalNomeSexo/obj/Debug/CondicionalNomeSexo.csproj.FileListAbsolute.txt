@@ -1,0 +1,20 @@
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.exe.config
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.exe
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.pdb
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.AssemblyReference.cache
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.Form1.resources
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.Properties.Resources.resources
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.GenerateResource.cache
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.CoreCompileInputs.cache
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.exe
+C:\Users\marcio.acbelucci\source\repos\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.pdb
+C:\VISUAL STUDIO\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.exe.config
+C:\VISUAL STUDIO\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.exe
+C:\VISUAL STUDIO\CondicionalNomeSexo\bin\Debug\CondicionalNomeSexo.pdb
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.Form1.resources
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.exe
+C:\VISUAL STUDIO\CondicionalNomeSexo\obj\Debug\CondicionalNomeSexo.pdb

@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\bin\Debug\CondicionalMediaAlunoImpressao.exe.config
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\bin\Debug\CondicionalMediaAlunoImpressao.exe
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\bin\Debug\CondicionalMediaAlunoImpressao.pdb
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.Form1.resources
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.exe
+C:\VISUAL STUDIO\CondicionalMediaAlunoImpressao\obj\Debug\CondicionalMediaAlunoImpressao.pdb

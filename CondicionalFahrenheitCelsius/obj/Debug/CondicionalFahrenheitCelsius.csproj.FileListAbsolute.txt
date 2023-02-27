@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\bin\Debug\CondicionalFahrenheitCelsius.exe.config
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\bin\Debug\CondicionalFahrenheitCelsius.exe
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\bin\Debug\CondicionalFahrenheitCelsius.pdb
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.Form1.resources
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.exe
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.pdb
+C:\VISUAL STUDIO\CondicionalFahrenheitCelsius\obj\Debug\CondicionalFahrenheitCelsius.csproj.AssemblyReference.cache

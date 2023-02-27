@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalDolarReal\bin\Debug\CondicionalDolarReal.exe.config
+C:\VISUAL STUDIO\CondicionalDolarReal\bin\Debug\CondicionalDolarReal.exe
+C:\VISUAL STUDIO\CondicionalDolarReal\bin\Debug\CondicionalDolarReal.pdb
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.Form1.resources
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.exe
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.pdb
+C:\VISUAL STUDIO\CondicionalDolarReal\obj\Debug\CondicionalDolarReal.csproj.AssemblyReference.cache

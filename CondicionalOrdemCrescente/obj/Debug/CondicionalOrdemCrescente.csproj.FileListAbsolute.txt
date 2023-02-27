@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\bin\Debug\CondicionalOrdemCrescente.exe.config
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\bin\Debug\CondicionalOrdemCrescente.exe
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\bin\Debug\CondicionalOrdemCrescente.pdb
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.Form1.resources
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.Properties.Resources.resources
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.exe
+C:\VISUAL STUDIO\CondicionalOrdemCrescente\obj\Debug\CondicionalOrdemCrescente.pdb
