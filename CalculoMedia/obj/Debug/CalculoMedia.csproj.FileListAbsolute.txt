@@ -1,0 +1,40 @@
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\bin\Debug\CalculoMedia.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\bin\Debug\CalculoMedia.exe
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\bin\Debug\CalculoMedia.pdb
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.formCalculoMedia.resources
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.exe
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia\obj\Debug\CalculoMedia.pdb
+C:\VISUAL STUDIO\CalculoMedia01\bin\Debug\CalculoMedia.exe.config
+C:\VISUAL STUDIO\CalculoMedia01\bin\Debug\CalculoMedia.exe
+C:\VISUAL STUDIO\CalculoMedia01\bin\Debug\CalculoMedia.pdb
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.formCalculoMedia.resources
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.Properties.Resources.resources
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.exe
+C:\VISUAL STUDIO\CalculoMedia01\obj\Debug\CalculoMedia.pdb
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\bin\Debug\CalculoMedia.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\bin\Debug\CalculoMedia.exe
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\bin\Debug\CalculoMedia.pdb
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.formCalculoMedia.resources
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.exe
+D:\Marcio Belucci\Exercícios de Lógica\CalculoMedia01\obj\Debug\CalculoMedia.pdb
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\bin\Debug\CalculoMedia.exe.config
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\bin\Debug\CalculoMedia.exe
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\bin\Debug\CalculoMedia.pdb
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.AssemblyReference.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.formCalculoMedia.resources
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.exe
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\CalculoMedia01\obj\Debug\CalculoMedia.pdb
