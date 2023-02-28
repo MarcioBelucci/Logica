@@ -1,0 +1,20 @@
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.pdb
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.Form1.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.Form1.resources
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.exe
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\obj\Debug\EstruturaCondicionalParImpar.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.exe.config
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.exe
+C:\VISUAL STUDIO\EstruturaCondicionalParImpar\bin\Debug\EstruturaCondicionalParImpar.pdb

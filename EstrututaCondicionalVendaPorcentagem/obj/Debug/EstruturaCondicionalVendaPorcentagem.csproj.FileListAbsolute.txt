@@ -1,0 +1,20 @@
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.exe.config
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.exe
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.Form1.resources
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.exe
+C:\VISUAL STUDIO\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.pdb
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\bin\Debug\EstruturaCondicionalVendaPorcentagem.pdb
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.Form1.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalVendaPorcentagem\obj\Debug\EstruturaCondicionalVendaPorcentagem.pdb

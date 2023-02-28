@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\bin\Debug\EstruturaCondicionalSalario.exe.config
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\bin\Debug\EstruturaCondicionalSalario.exe
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\bin\Debug\EstruturaCondicionalSalario.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.Form1.resources
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.exe
+C:\VISUAL STUDIO\EstruturaCondicionalSalario\obj\Debug\EstruturaCondicionalSalario.pdb

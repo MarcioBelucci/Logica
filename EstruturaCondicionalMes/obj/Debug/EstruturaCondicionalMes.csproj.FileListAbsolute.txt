@@ -1,0 +1,20 @@
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.pdb
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.fmEstruturaCondicionalMes.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.exe
+D:\Marcio Belucci\Exercícios de Lógica\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.exe.config
+C:\VISUAL STUDIO\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.exe
+C:\VISUAL STUDIO\EstruturaCondicionalMes\bin\Debug\EstruturaCondicionalMes.pdb
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.fmEstruturaCondicionalMes.resources
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.exe
+C:\VISUAL STUDIO\EstruturaCondicionalMes\obj\Debug\EstruturaCondicionalMes.pdb
