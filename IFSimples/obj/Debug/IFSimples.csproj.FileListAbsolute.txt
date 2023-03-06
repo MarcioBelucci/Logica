@@ -1,0 +1,20 @@
+C:\VISUAL STUDIO\IFSimples\bin\Debug\IFSimples.exe.config
+C:\VISUAL STUDIO\IFSimples\bin\Debug\IFSimples.exe
+C:\VISUAL STUDIO\IFSimples\bin\Debug\IFSimples.pdb
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.Form1.resources
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.Properties.Resources.resources
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.exe
+C:\VISUAL STUDIO\IFSimples\obj\Debug\IFSimples.pdb
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\bin\Debug\IFSimples.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\bin\Debug\IFSimples.exe
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\bin\Debug\IFSimples.pdb
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.Form1.resources
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.exe
+D:\Marcio Belucci\Exercícios de Lógica\IFSimples\obj\Debug\IFSimples.pdb

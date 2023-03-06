@@ -1,0 +1,10 @@
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\bin\Debug\VetorMatriz.exe.config
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\bin\Debug\VetorMatriz.exe
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\bin\Debug\VetorMatriz.pdb
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.csproj.AssemblyReference.cache
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.Form1.resources
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.Properties.Resources.resources
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.csproj.GenerateResource.cache
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.csproj.CoreCompileInputs.cache
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.exe
+C:\Users\marcio.acbelucci\source\repos\VetorMatriz\obj\Debug\VetorMatriz.pdb

@@ -1,0 +1,20 @@
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\bin\Debug\MediaNotas.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\bin\Debug\MediaNotas.exe
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\bin\Debug\MediaNotas.pdb
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.Form1.resources
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.exe
+D:\Marcio Belucci\Exercícios de Lógica\MediaNotas\obj\Debug\MediaNotas.pdb
+C:\VISUAL STUDIO\MediaNotas\bin\Debug\MediaNotas.exe.config
+C:\VISUAL STUDIO\MediaNotas\bin\Debug\MediaNotas.exe
+C:\VISUAL STUDIO\MediaNotas\bin\Debug\MediaNotas.pdb
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.Form1.resources
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.Properties.Resources.resources
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.exe
+C:\VISUAL STUDIO\MediaNotas\obj\Debug\MediaNotas.pdb

@@ -1,0 +1,20 @@
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\bin\Debug\Tabuada.exe.config
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\bin\Debug\Tabuada.exe
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\bin\Debug\Tabuada.pdb
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.Form1.resources
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.exe
+D:\Marcio Belucci\Exercícios de Lógica\Tabuada\obj\Debug\Tabuada.pdb
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\jubel\Desktop\Curso TI\Programação\Lógica\Tabuada\obj\Debug\Tabuada.pdb
