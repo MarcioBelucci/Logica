@@ -1,0 +1,20 @@
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.pdb
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.exe.config
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\bin\Debug\EstruturaRepetiçãoExpoente3.pdb
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.AssemblyReference.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.Form1.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.Properties.Resources.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.GenerateResource.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.csproj.CoreCompileInputs.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoExpoente3\obj\Debug\EstruturaRepetiçãoExpoente3.pdb

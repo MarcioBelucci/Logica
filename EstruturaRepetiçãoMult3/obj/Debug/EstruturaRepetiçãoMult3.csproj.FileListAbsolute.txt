@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\bin\Debug\EstruturaRepetiçãoMult3.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\bin\Debug\EstruturaRepetiçãoMult3.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\bin\Debug\EstruturaRepetiçãoMult3.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoMult3\obj\Debug\EstruturaRepetiçãoMult3.pdb

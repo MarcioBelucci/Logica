@@ -1,0 +1,20 @@
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.exe.config
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.pdb
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.AssemblyReference.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.Form1.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.Properties.Resources.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.GenerateResource.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\bin\Debug\EstruturaRepetiçãoQuadradoNumeros.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoQuadradoNumeros\obj\Debug\EstruturaRepetiçãoQuadradoNumeros.pdb

@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\bin\Debug\EstruturaRepetiçãoSomaMulti3mbox.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\bin\Debug\EstruturaRepetiçãoSomaMulti3mbox.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\bin\Debug\EstruturaRepetiçãoSomaMulti3mbox.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoSomaMulti3mbox\obj\Debug\EstruturaRepetiçãoSomaMulti3mbox.pdb

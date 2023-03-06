@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\bin\Debug\EstruturaRepetiçãoDivi3ou4.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\bin\Debug\EstruturaRepetiçãoDivi3ou4.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\bin\Debug\EstruturaRepetiçãoDivi3ou4.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoDivi3ou4\obj\Debug\EstruturaRepetiçãoDivi3ou4.pdb

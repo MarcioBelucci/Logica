@@ -1,0 +1,10 @@
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\bin\Debug\EstruturaRepetiçãoMaiorIdade.exe.config
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\bin\Debug\EstruturaRepetiçãoMaiorIdade.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\bin\Debug\EstruturaRepetiçãoMaiorIdade.pdb
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.Form1.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.Properties.Resources.resources
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.csproj.GenerateResource.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.exe
+C:\VISUAL STUDIO\EstruturaRepetiçãoMaiorIdade\obj\Debug\EstruturaRepetiçãoMaiorIdade.pdb

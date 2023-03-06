@@ -1,0 +1,10 @@
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\bin\Debug\EstruturaRepeticaoSomatorioMedia.exe.config
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\bin\Debug\EstruturaRepeticaoSomatorioMedia.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\bin\Debug\EstruturaRepeticaoSomatorioMedia.pdb
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.csproj.AssemblyReference.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.Form1.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.Properties.Resources.resources
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.csproj.GenerateResource.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.csproj.CoreCompileInputs.cache
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.exe
+C:\Users\marcio.acbelucci\source\repos\EstruturaRepeticaoSomatorioMedia\obj\Debug\EstruturaRepeticaoSomatorioMedia.pdb
